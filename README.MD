@@ -1,4 +1,3 @@
-readme
 
 Python script to generate Ramanujan numbers (numbers that can be expressed as the sum 
 of two different cubes in two different ways)
@@ -8,7 +7,9 @@ For example, 1729 = 10^3 + 9^3 = 12^3 + 1^3
 
 *  ramanujan_test_v1.py
 
-	* Usage - nohup python ramanujan_test_v1.py
+	* Usage
+	
+		* nohup python ramanujan_test_v1.py
 
 * ramanujan_numbers_list.txt
 
