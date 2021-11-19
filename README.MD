@@ -60,3 +60,7 @@ For example, 1729 = 10^3 + 9^3 = 12^3 + 1^3
 * Manuscript and citation
 
      * Forthcoming
+
+     * Preprint
+
+          * https://osf.io/bf3pw
