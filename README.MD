@@ -1,4 +1,7 @@
 
+## Introduction
+
+
 Python script to generate Ramanujan numbers (numbers that can be expressed as the sum 
 of two different cubes in two different ways)
 
@@ -50,17 +53,19 @@ For example, 1729 = 10^3 + 9^3 = 12^3 + 1^3
 
 
 
-* Contact
+## Contact
 
 	* Soumya Banerjee
 
 	* https://sites.google.com/site/neelsoumya
 
 
-* Manuscript and citation
+## Manuscript and citation
 
      * Forthcoming
 
      * Preprint
 
           * https://osf.io/bf3pw
+
+banerjee, soumya. 2021. “Ramanujan Cab Numbers: A Recreational Mathematics Activity.” OSF Preprints. November 19. doi:10.31219/osf.io/bf3pw.
