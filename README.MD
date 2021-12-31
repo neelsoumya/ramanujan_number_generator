@@ -7,12 +7,15 @@ of two different cubes in two different ways)
 
 For example, 1729 = 10^3 + 9^3 = 12^3 + 1^3
 
+## Files
 
 *  `ramanujan_test_v1.py`
 
 	* Usage
 	
-		* nohup python3 ramanujan_test_v1.py
+	```r
+	nohup python3 ramanujan_test_v1.py
+        ``` 
 
 * `ramanujan_numbers_list.txt`
 
@@ -50,6 +53,11 @@ For example, 1729 = 10^3 + 9^3 = 12^3 + 1^3
 * `ALL.txt`
 
 	* All Ramanujan numbers
+
+
+## Installation
+
+Install R, R Studio and Python
 
 
 ## Usage
