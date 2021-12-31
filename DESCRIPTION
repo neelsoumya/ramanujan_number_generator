@@ -1,0 +1,8 @@
+Package: ramanujan_number_generator
+Type: Package
+Title: ramanujan_number_generator
+Version: 1.0
+Imports: bookdown,
+          rmarkdown,
+          knitr,
+          sqldf
