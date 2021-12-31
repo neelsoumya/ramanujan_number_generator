@@ -14,8 +14,9 @@ For example, 1729 = 10^3 + 9^3 = 12^3 + 1^3
 	* Usage
 	
 	```
-	nohup python3 ramanujan_test_v1.py
-        ``` 
+		nohup python3 ramanujan_test_v1.py
+		
+        ```
 
 * `ramanujan_numbers_list.txt`
 
