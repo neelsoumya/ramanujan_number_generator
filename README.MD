@@ -60,6 +60,11 @@ For example, 1729 = 10^3 + 9^3 = 12^3 + 1^3
 
 Install R, R Studio and Python
 
+```r
+install.packages('devtools')
+library(devtools)
+devtools::install_github('neelsoumya/ramanujan_number_generator')
+```
 
 ## Usage
 
