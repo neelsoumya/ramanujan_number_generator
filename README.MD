@@ -58,7 +58,19 @@ For example, 1729 = 10^3 + 9^3 = 12^3 + 1^3
 
 ## Installation
 
-Install R, R Studio and Python
+Install R
+
+https://www.r-project.org/
+
+R Studio
+
+https://www.rstudio.com/products/rstudio/download/preview/
+
+and Python
+
+https://www.python.org/downloads/
+
+In R run the following commands
 
 ```r
 install.packages('devtools')
@@ -71,6 +83,12 @@ devtools::install_github('neelsoumya/ramanujan_number_generator')
 
 ```python
 python ramanujan_test_v1.py
+```
+
+```r
+
+R --no-save < analysis.R
+
 ```
 
 ## Contact
