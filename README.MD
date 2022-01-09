@@ -73,6 +73,13 @@ https://www.python.org/downloads/
 In R run the following commands
 
 ```r
+install.packages('sqldf')
+install.packages('ggplot2')
+```
+
+or
+
+```r
 install.packages('devtools')
 library(devtools)
 devtools::install_github('neelsoumya/ramanujan_number_generator')
@@ -97,10 +104,11 @@ Soumya Banerjee
 
 https://sites.google.com/site/neelsoumya
 
+sb2333@cam.ac.uk
+
 
 ## Manuscript and citation
 
-Forthcoming
 
 Preprint
 
