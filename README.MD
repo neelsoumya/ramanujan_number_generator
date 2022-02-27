@@ -9,6 +9,49 @@ For example, 1729 = 10^3 + 9^3 = 12^3 + 1^3
 
 where ^ denotes exponentiation.
 
+## Installation
+
+Install R
+
+https://www.r-project.org/
+
+R Studio
+
+https://www.rstudio.com/products/rstudio/download/preview/
+
+and Python
+
+https://www.python.org/downloads/
+
+In R run the following commands
+
+```r
+install.packages('sqldf')
+install.packages('ggplot2')
+```
+
+or
+
+```r
+install.packages('devtools')
+library(devtools)
+devtools::install_github('neelsoumya/ramanujan_number_generator')
+```
+
+## Usage
+
+
+```python
+python ramanujan_test_v1.py
+```
+
+```r
+
+R --no-save < analysis.R
+
+```
+
+
 ## Files
 
 *  `ramanujan_test_v1.py`
@@ -58,47 +101,6 @@ where ^ denotes exponentiation.
 	* All Ramanujan numbers
 
 
-## Installation
-
-Install R
-
-https://www.r-project.org/
-
-R Studio
-
-https://www.rstudio.com/products/rstudio/download/preview/
-
-and Python
-
-https://www.python.org/downloads/
-
-In R run the following commands
-
-```r
-install.packages('sqldf')
-install.packages('ggplot2')
-```
-
-or
-
-```r
-install.packages('devtools')
-library(devtools)
-devtools::install_github('neelsoumya/ramanujan_number_generator')
-```
-
-## Usage
-
-
-```python
-python ramanujan_test_v1.py
-```
-
-```r
-
-R --no-save < analysis.R
-
-```
 
 ## Contact
 
