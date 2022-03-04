@@ -38,6 +38,13 @@ library(devtools)
 devtools::install_github('neelsoumya/ramanujan_number_generator')
 ```
 
+Clone or download the repository
+
+```r
+git clone https://github.com/neelsoumya/ramanujan_number_generator
+```
+
+
 ## Usage
 
 
