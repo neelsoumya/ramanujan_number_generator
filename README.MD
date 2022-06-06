@@ -123,6 +123,8 @@ sb2333@cam.ac.uk
 
 Preprint
 
-   https://osf.io/bf3pw
+https://osf.io/a2jc9/
 
-banerjee, soumya. 2021. “Ramanujan Cab Numbers: A Recreational Mathematics Activity.” OSF Preprints. November 19. doi:10.31219/osf.io/bf3pw.
+
+banerjee, soumya. 2022. “Ramanujan Cab Numbers: A Recreational Mathematics Activity.” OSF Preprints. May 10. doi:10.31219/osf.io/a2jc9
+
