@@ -120,6 +120,11 @@ sb2333@cam.ac.uk
 
 ## Manuscript and citation
 
+Soumya Banerjee, "Ramanujan Cab Numbers: A Recreational Mathematics Activity," Journal of Humanistic Mathematics, Volume 12 Issue 2 (July 2022), pages 503-517. 
+
+Available at: 
+
+https://scholarship.claremont.edu/jhm/vol12/iss2/29
 
 Preprint
 
