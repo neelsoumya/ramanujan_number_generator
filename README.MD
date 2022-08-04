@@ -117,6 +117,12 @@ https://sites.google.com/site/neelsoumya
 
 sb2333@cam.ac.uk
 
+## Other ideas and resources
+
+https://stackoverflow.com/questions/69669784/ramanujans-number-in-c#
+
+https://stackoverflow.com/questions/32876131/making-hardy-ramanujan-nth-number-finder-more-efficient
+
 
 ## Manuscript and citation
 
