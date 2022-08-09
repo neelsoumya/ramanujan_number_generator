@@ -123,6 +123,8 @@ https://stackoverflow.com/questions/69669784/ramanujans-number-in-c#
 
 https://stackoverflow.com/questions/32876131/making-hardy-ramanujan-nth-number-finder-more-efficient
 
+http://recmath.org/Magic%20Squares/narciss.htm
+
 
 ## Manuscript and citation
 
