@@ -125,6 +125,9 @@ https://stackoverflow.com/questions/32876131/making-hardy-ramanujan-nth-number-f
 
 http://recmath.org/Magic%20Squares/narciss.htm
 
+https://ia801004.us.archive.org/17/items/martingardnerthecolossalbookofmathematics/Martin%20Gardner%20-%20The%20Colossal%20Book%20Of%20Mathematics.pdf
+
+http://jnsilva.ludicum.org/HMR13_14/536.pdf
 
 ## Manuscript and citation
 
