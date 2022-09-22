@@ -131,6 +131,7 @@ http://jnsilva.ludicum.org/HMR13_14/536.pdf
 
 https://mathoverflow.net/questions/152580/recreational-mathematics-where-to-search
 
+http://www.science.smith.edu/~jhenle/pleasingmath/
 
 ## Manuscript and citation
 
